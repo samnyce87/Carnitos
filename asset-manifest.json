@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/carnitos/static/css/main.073c9b0a.css",
-    "main.js": "/carnitos/static/js/main.14374b30.js",
-    "static/js/787.150b53cc.chunk.js": "/carnitos/static/js/787.150b53cc.chunk.js",
-    "static/media/image.png": "/carnitos/static/media/image.80ba56e49b715692ac32.png",
-    "index.html": "/carnitos/index.html",
-    "main.073c9b0a.css.map": "/carnitos/static/css/main.073c9b0a.css.map",
-    "main.14374b30.js.map": "/carnitos/static/js/main.14374b30.js.map",
-    "787.150b53cc.chunk.js.map": "/carnitos/static/js/787.150b53cc.chunk.js.map"
+    "main.css": "/Carnitos/static/css/main.073c9b0a.css",
+    "main.js": "/Carnitos/static/js/main.2a6b2b05.js",
+    "static/js/787.150b53cc.chunk.js": "/Carnitos/static/js/787.150b53cc.chunk.js",
+    "static/media/image.png": "/Carnitos/static/media/image.80ba56e49b715692ac32.png",
+    "index.html": "/Carnitos/index.html",
+    "main.073c9b0a.css.map": "/Carnitos/static/css/main.073c9b0a.css.map",
+    "main.2a6b2b05.js.map": "/Carnitos/static/js/main.2a6b2b05.js.map",
+    "787.150b53cc.chunk.js.map": "/Carnitos/static/js/787.150b53cc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.14374b30.js"
+    "static/js/main.2a6b2b05.js"
   ]
 }
